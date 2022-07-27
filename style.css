@@ -1,0 +1,174 @@
+*{
+    /* font-family: Ubuntu; */
+    padding:0px;
+    margin: 0px;
+    box-sizing: content-box;
+  }
+
+/* #navFirst{
+    display: inline;
+  } */
+#navFirst img{
+    height: 33px;
+    margin: 35px;
+    
+  }
+
+#navMid{
+    position: relative;
+    display: inline;
+    margin: 100px 100px;
+    top: -75px;
+    padding: 10px;
+    left: 20px;
+    
+  }
+#navMid div {
+    display: inline-block;
+    margin: 10px 80px;
+  }
+
+
+#navEnd{
+    position: relative;
+    display: inline;
+    margin: 0px 0px;
+    top: -75px;
+    left: 48px;
+    
+  }
+#navEnd div{
+    display: inline;
+    margin: 0px 20px;
+  }
+
+#navEnd div img{
+    height: 15px;
+  }
+#midWholePart11
+  {
+    position: relative;  
+    margin-left: 40px;
+    width: 477px;
+    top: 60px;
+    left: 49px;
+  }
+
+#monstera{
+    font-size: 100px;
+    font-weight: 30px;
+    color: black;
+    font-style: bold;
+  }
+  
+  
+#midWholePart12{
+    position: relative;
+    top: 118px;
+    left: 90px;
+  }
+#midWholePart121
+  {
+    background-color: rgb(44, 80, 54);
+    width: 200px;
+    height: 60px;
+    border-radius: 35px;
+  }
+#midWholePart121 div h1{
+    position:absolute;
+    color:white;
+    align-items: center;
+    font-weight: 100;
+    font-size: 30px;
+    top: 13px;
+    left:17px;
+  }
+#midWholePart122{
+    position: relative;
+    top:20px;
+    left: 170px;
+  }
+#midWholePart122 img{
+    height: 20px;
+    width: 20px;
+  }
+#imgMain{
+    position:absolute;
+    top: 190px;
+    right: 5px;
+    height: 627px;
+    width: 529px;
+  }
+
+.midWholePart13Parts div img{
+    height: 60px;
+  }
+.midWholePart13Parts div{
+    display: inline;
+  }
+  
+.midWholePart13Parts h4{
+  display: inline-block;
+  font-size: 20px ;
+  }
+  
+.text{
+    width: 130px;
+    font-size: 11px;
+    display: inline-block;
+  }
+.midWholePart13Parts{
+    display: inline;
+  }
+#midWholePart13{
+    position: relative;
+    top: 169px;
+    left: 90px;
+  }
+#feeding
+  {
+    position: relative;
+    top: 3px;
+    left:0px;
+  }
+#midWholePart13 div:first-child div:nth-child(2) h4{
+  position: relative;
+  top: -35px;
+  left:4px;
+    
+  }
+#midWholePart13 div:first-child div:nth-child(2) p{
+  position: relative;
+  top: 1px;
+  left:-65px;
+  }
+#light{
+    position: relative;
+    left: -30px;
+  }
+#midWholePart13 div:nth-child(2) div:nth-child(2) h4{
+  position: relative;
+  top: -35px;
+  left:-23px;
+    
+  }
+#midWholePart13 div:nth-child(2) div:nth-child(2) p{
+  position: relative;
+  top: 1px;
+  left:-72px;}
+#care{
+    position: relative;
+    left: -41px;
+  }
+#midWholePart13 div:nth-child(3) div:nth-child(2) h4{
+  position: relative;
+  top: -35px;
+  left:-36px;
+    
+  }
+#midWholePart13 div:nth-child(3) div:nth-child(2) p{
+  position: relative;
+  top: 1px;
+  left:-82px;}
+  
+
